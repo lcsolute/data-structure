@@ -16,3 +16,8 @@ $ gcc -o testlist testlist.c list.c && ./testlist
 ```bash
 $ gcc -o testcurs testcurs.c cursor.c && ./testcurs
 ```
+
+3. teststkl
+```bash
+$ gcc -o teststkl teststkl.c stackli.c && ./teststkl
+```
